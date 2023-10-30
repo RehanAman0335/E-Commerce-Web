@@ -1,0 +1,131 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+ #ul #pge
+{
+    color: white;
+}
+
+#font
+{
+     background-color: #fff9f9; 
+  
+    width: 20px; 
+    
+}
+
+#nav
+{
+    background-color: blue!important;
+     margin-top: -25px;
+}
+
+#ul
+{
+    margin-left: 50px;
+    
+}
+
+#pge:hover
+{
+    background-color: blue;
+}
+
+/* #pge
+{
+    text-decoration-color: black;
+} */
+
+.dropdown-item:hover
+{
+    background-color: #4a47ff;
+}
+
+#para
+{
+    text-align: justify;
+   
+
+}
+
+.SliderHeading
+{
+    color: white;
+}
+
+.SliderParagragh
+{
+    color: white;
+}
+
+
+
+
+#c1
+{
+    /* margin-left: 20px; */
+    justify-content: space-around;
+}
+
+#c2
+{
+    /* margin-left: 30px; */
+}
+
+#c3
+{
+    /* margin-left: 80px; */
+}
+
+#c4
+{
+    /* margin-left: 175px; */
+}
+
+.card-text
+{
+    
+    text-align: justify;
+}
+
+#foot{
+    background-color: black;
+}
+.footer-copyright
+{
+    background-color: black;
+}
+.dark-grey-text{
+    color: white;
+}
+
+.btn
+{
+    /* padding-right: 10px; */
+    background-color: blue;
+}
+.in{
+    padding-left: -10px;
+}
+
+/* @media screen(max-width : 1000px) {
+    .dropdown-item:hover
+{
+    background-color:red ;
+} */
+    
+}
+
+.para
+{
+    text-align: justify
+}
+.img1{
+    height: 320px;
+}
+.z3{
+    
+    padding-left: 200px;
+}

@@ -1,0 +1,246 @@
+     *{
+    margin:0px;
+    padding: 0px;
+}
+
+ #ul #pge
+{
+    color: white;
+}
+img{
+    margin-bottom: 25px;
+}
+#fp
+{
+    margin-top: -30px;
+}
+#hr1
+{
+    margin-bottom: 10px;
+    color: brown;
+}
+.hr
+{
+    margin: 35px;
+}
+
+.img5
+{
+ border-radius: 80%;
+ border: #034ea2;
+ border-style: solid;
+
+ height: 250px;
+ width: 300px; 
+ /* margin-top: -50px;    */
+}
+
+.logo
+{
+    color: black;
+    /* justify-content: space-evenly; */
+}
+
+.card-text
+{
+    text-align: justify;
+}
+
+#Apple
+{
+    color: black;
+    
+}
+
+#Samsung
+{
+    color: black;
+     
+}
+
+#Oppo
+{
+     color: black;
+ 
+}
+
+#Xiomi
+{
+    color: black;
+    
+}
+.r5
+{
+    justify-content: space-evenly;
+       
+}
+
+
+
+#brand
+{
+    margin-top: -55px;
+}
+
+
+
+/* .di
+{
+    width: 1340px;
+    height: px;
+    background-color: brown;
+    display: inline-block;
+} */
+/* .ss
+{
+    width: 1340px;
+    height: 3.5px ;
+    background-color: brown;
+    display: inline-flex;
+} */
+#font
+{
+     background-color: #fff9f9; 
+  
+    width: 20px; 
+    
+}
+.jm{
+    margin-top: -50px;
+}
+
+#nav
+{
+    background-color: brown!important;
+    height: 75px;
+     margin-top: -25px;
+}
+
+#ul
+{
+    margin-left: 50px;
+
+    
+}
+
+#pge:hover
+{
+    background-color: blue;
+}
+
+
+
+.dropdown-item:hover
+{
+    background-color:#4a47ff ;
+}
+
+#para
+{
+    text-align: justify;
+   
+
+}
+
+.SliderHeading
+{
+    color: white;
+}
+
+.SliderParagragh
+{
+    color: white;
+}
+
+
+
+
+
+
+
+#foot{
+    background-color: black;
+}
+.footer-copyright
+{
+    background-color: black;
+}
+.dark-grey-text{
+    color: white;
+}
+
+.btn
+{
+    /* padding-right: 10px; */
+    background-color: mediumblue;
+}
+.in{
+    padding-left: -10px;
+}
+
+
+
+#r{
+
+    justify-content: space-evenly;
+       
+}
+
+#r2{
+
+    justify-content: space-evenly;
+}
+
+.Gallery
+{
+    padding: 80 0px;
+}
+
+.fp
+{
+    text-align: center;
+}
+
+.h3
+{
+    color: brown;
+    margin-top: -43px;
+    margin-left: -828px;
+}
+
+.h4
+{
+    color: brown;
+    margin-top: -36px;
+    margin-left: 790px;
+}
+
+
+.Mobilemodel
+{
+    padding-left: 125px;
+}
+
+.mb-0
+{
+    color: white;
+    
+}
+
+
+
+
+
+img
+{
+    max-width: 100%;
+}
+.Foot
+{
+    background-color: #034ea2!important;
+}
+
+/* #f
+{
+    i
+} */
